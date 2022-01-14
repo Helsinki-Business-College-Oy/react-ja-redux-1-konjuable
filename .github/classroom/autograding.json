@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Boxes",
+      "setup": "npm install",
+      "run": "npm start",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
